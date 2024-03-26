@@ -1,0 +1,31 @@
+.highlight{
+      background-color: #59ebf6;
+}
+a:active{
+    color: #f01787;
+   font-size: 100px;
+}
+a:hover{
+      color: #000000;
+}
+li:first-child{
+  font-size: 50px;
+}
+li:last-child{
+   font-size: 50px;
+}
+li:nth-child(1){
+  background-color: lightskyblue;
+}
+li:nth-child(2){
+  background-color: #FFFFFF;
+}
+li:nth-child(3){
+  background-color: #FFFFFF;
+}
+li:nth-child(4){
+  background-color: #FFFFFF;
+}
+li:nth-child(5){
+  background-color: #28d631;
+}
